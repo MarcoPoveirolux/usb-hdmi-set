@@ -5,7 +5,7 @@
 
 xrandr --listproviders # will display all the displays connected to the system 
 
-#example used for a usb to hdmi 2 outputs bought on Amazon for 50€
+#Example used for a usb to hdmi 2 outputs bought on Amazon for 50€
 
 #! usr/bin/bash
 xrandr --setprovideroutputsource 1 0
@@ -18,6 +18,6 @@ xrandr --setprovideroutputsource 4 0
 
 xrandr --auto 
 
-#instalattion of "arandr" is necessary to be easier to configurate the displays and save it as a bash file to run automatically
-#use te command 
+#Instalattion of "arandr" is necessary to be easier to configurate the displays and save it as a bash file to run automatically
+#Use the command on the terminal
 sudo apt install arandr
