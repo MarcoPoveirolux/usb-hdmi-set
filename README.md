@@ -2,7 +2,7 @@
 
 Intruduction:
 
-My name is Marco im Portuguese passioned by computers since litle.
+My name is Marco im Portuguese passioned by computers since young age.
 
 Love to work on Linux enviroments. 
 Making my self studies and some formations on linux python api and sql  
