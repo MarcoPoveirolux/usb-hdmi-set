@@ -4,6 +4,14 @@ Intruduction:
 
 My name is Marco im Portuguese passioned by computers since young age.
 
+<<<<<<< Updated upstream
+=======
+ 
+Intruduction:
+
+My name is Marco im Portuguese passioned by computers since young age.
+
+>>>>>>> Stashed changes
 Love to work on Linux enviroments. 
 Making my self learned pah and training addict. Made some formations on linux, python, api, and sql  
 Continuing my path on ethickal hacking and pentester learning will publish some tools that help some begginners like me.
