@@ -1,0 +1,23 @@
+
+#Instalation of the driver should be from the link "https://www.synaptics.com/products/displaylink-graphics/downloads/ubuntu"
+
+#Installation of the package should be as root
+
+xrandr --listproviders # will display all the displays connected to the system 
+
+#example used for a usb to hdmi 2 outputs bought on Amazon for 50€
+
+#! usr/bin/bash
+xrandr --setprovideroutputsource 1 0
+
+xrandr --setprovideroutputsource 2 0
+
+xrandr --setprovideroutputsource 3 0
+
+xrandr --setprovideroutputsource 4 0
+
+xrandr --auto 
+
+#instalattion of "arandr" is necessary to be easier to configurate the displays and save it as a bash file to run automatically
+#use te command 
+sudo apt install arandr
